@@ -11,6 +11,7 @@ div.container {
     margin: auto;
     background-color: whitesmoke;
     padding: 16px 64px;
+    box-shadow: 4px 6px 32px rgba(0, 0, 0, 0.1), 0px 0px 64px rgba(0, 0, 0, 0.1);
 }
 
 h1, h2 {
@@ -36,14 +37,22 @@ section.description {
 }
 
 section {
-    margin-bottom: 32px;
+    margin: 16px;
 }
 
 a {
-    color: darkred;
+    position: absolute;
+    margin: 16px;
+    padding: 16px 32px;
+    background-color: darkred;
+    color: white;
+    border-radius: 32px;
     text-decoration: none;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.1);
+    transition: 0.5s;
 }
 
 a:hover {
-    color: lightcoral;
+    transition: 0.5s;
+    background-color: lightcoral;
 }
