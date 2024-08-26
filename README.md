@@ -1,9 +1,9 @@
 # Odin Recipes
-A beginner HTML/CSS project by [www.theodinproject.com](www.theodinproject.com)
+A beginner HTML/CSS project by [www.theodinproject.com](https://www.theodinproject.com/)
 
-## How to view  my odin-recipe site
 
-Access the site [here](https://soju-jsh.github.io/odin-recipes/) or copy the link below and paste it on your browser
+## How to view/access site?
+Click [here](https://soju-jsh.github.io/odin-recipes/) or copy the link below and paste it on your browser
 ```
-soju-jsh.github.io/odin-recipes/
+https://soju-jsh.github.io/odin-recipes/
 ```
